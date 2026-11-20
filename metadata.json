@@ -1,0 +1,6 @@
+{
+  "name": "나트랑 실시간 정보",
+  "description": "나트랑 실시간 날씨, 베트남 환율, 김청 환전소 100달러 실시간 환산 정보를 확인하는 심플 여행 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
